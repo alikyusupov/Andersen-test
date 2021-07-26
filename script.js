@@ -3,3 +3,4 @@ function fn(){
     return "result"
 }
 const a = "freeze"
+a = "Oops"
