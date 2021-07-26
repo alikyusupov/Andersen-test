@@ -1,2 +1,4 @@
 console.log("Hello")
-function fn(){}
+function fn(){
+    return "result"
+}
