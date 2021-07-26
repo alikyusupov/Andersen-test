@@ -1,2 +1,6 @@
 console.log("Hello")
-function fn(){}
+function fn(){
+    return "result"
+}
+const a = "freeze"
+a = "Oops"
